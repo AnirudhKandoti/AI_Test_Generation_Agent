@@ -21,6 +21,25 @@ then evaluates them using coverage, mutation testing, and flakiness metrics.
 
 
 ---
+## Screenshots
+
+**Input module**
+
+![Python utility module under test](docs/images/math_ops_input.png)
+
+**Baseline tests**
+
+![Hand-written baseline pytest tests](docs/images/baseline_tests.png)
+
+**AI-generated tests**
+
+![AI-generated pytest tests](docs/images/generated_tests.png)
+
+**Evaluation metrics**
+
+![Evaluation metrics (coverage and mutation score)](docs/images/eval_metrics.png)
+
+---
 
 ## Setup
 
