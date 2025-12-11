@@ -16,7 +16,7 @@ then evaluates them using coverage, mutation testing, and flakiness metrics.
    - Test pass/fail statistics
    - Coverage (statement/branch) using `coverage.py`
    - Flakiness (by running tests multiple times)
-   - (Optional) Mutation score using `mutmut` or a similar tool
+   - Mutation score using logic
 7. Metrics and safety violations are written to `data/results/*.json` for later analysis.
 
 
